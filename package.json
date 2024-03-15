@@ -53,7 +53,7 @@
     "@angular-devkit/core": "17.2.0-rc.0",
     "@angular-devkit/schematics": "17.2.0-rc.0",
     "@angular/cdk": "17.2.0-rc.0",
-    "@angular/cli": "17.2.0-rc.0",
+    "@angular/cli": "17.2.0",
     "@angular/material": "17.2.0-rc.0",
     "@babel/cli": "7.23.9",
     "@babel/core": "7.23.9",
